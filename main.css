@@ -44,7 +44,9 @@ img {
   background-color: #FFEE00;
   max-width: 25%;
   min-width: 160px;
-  flex-wrap: wrap;
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center;
 }
 
 .nav h3 {
